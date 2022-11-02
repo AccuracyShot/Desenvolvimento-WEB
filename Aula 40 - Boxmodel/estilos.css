@@ -1,0 +1,41 @@
+/*
+  .conteudo{
+    border: 1px solid red;
+    /*padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;  /* Espaçamento inferior */
+    /*padding-left: 20px;
+    width: 150px;
+    padding: 20px 15px 10px 5px;*/
+    /*padding: 20px;  Aplica 20px pra todos os lados*/ 
+
+    /* Espaçamento externo
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+    width: 150px; 
+} */
+
+
+/*
+.conteudo2{
+    border: 1px solid red;
+    margin: 20px;
+    padding: 20px;
+    width: 150px;
+
+} */
+
+#noticia{
+    background: aqua;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+h2 {
+    border: 1px solid red;
+    margin: 0px;
+}
+
